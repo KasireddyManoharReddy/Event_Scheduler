@@ -29,7 +29,3 @@ To use this Flutter project, follow these steps:
 4. Test and Run: Test the app in an emulator or a physical device to verify its functionality. Use Flutter hot-reloading to make changes in real-time.
 
 5. Deploy: Once the app is tested and ready, you can deploy it to the desired platforms, such as Android, iOS, or web, following the official Flutter documentation.
-
-## Contributions
-
-Contributions to this Flutter project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, feel free to contribute by submitting pull requests or raising issues in the project repository.
